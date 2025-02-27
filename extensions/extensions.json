@@ -95,7 +95,6 @@
   "Alestore/nfcwarp",
   "steamworks",
   "itchio",
-  "liablelua/twitch",
   "gamejolt",
   "obviousAlexC/newgroundsIO",
   "Lily/McUtils" // McUtils should always be the last item.
